@@ -1,0 +1,11 @@
+Lungime array de char: 40 (inclusiv null-terminator) 
+
+Atentie la client, caracterele speciale le reinterpreteaza
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaï¾cÞ
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabcd
+                                            ^^^^
+											||||
+											caracterele speciale care trebuie inlocuite,
+											cu abcd functioneaza corect
+											
